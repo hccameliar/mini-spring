@@ -11,7 +11,7 @@ import com.minispring.context.event.ContextRefreshedEvent;
 import com.minispring.context.event.SimpleApplicationEventMulticaster;
 import com.minispring.core.env.ConfigurableEnvironment;
 import com.minispring.core.env.StandardEnvironment;
-import com.minispring.core.io.DefaultResourceLoader;
+import com.minispring.io.DefaultResourceLoader;
 import com.minispring.ioc.factory.ConfigurableListableBeanFactory;
 import com.minispring.ioc.lifecycle.BeanFactoryPostProcessor;
 import com.minispring.ioc.lifecycle.BeanPostProcessor;

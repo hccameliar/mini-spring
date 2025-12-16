@@ -1,11 +1,7 @@
 package com.minispring.test;
 
-import com.minispring.core.io.DefaultResourceLoader;
 import com.minispring.core.io.UrlResource;
-import com.minispring.io.ClassPathResource;
-import com.minispring.io.FileSystemResource;
-import com.minispring.io.Resource;
-import com.minispring.io.ResourceLoader;
+import com.minispring.io.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;

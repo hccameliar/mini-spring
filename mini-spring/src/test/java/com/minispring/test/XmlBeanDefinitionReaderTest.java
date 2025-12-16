@@ -1,6 +1,7 @@
 package com.minispring.test;
 
-import com.minispring.core.io.DefaultResourceLoader;
+
+import com.minispring.io.DefaultResourceLoader;
 import com.minispring.io.Resource;
 import com.minispring.ioc.definition.BeanDefinition;
 import com.minispring.ioc.support.DefaultListableBeanFactory;

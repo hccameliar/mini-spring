@@ -1,7 +1,7 @@
 package com.minispring.beans.factory.support;
 
 import com.minispring.beans.BeansException;
-import com.minispring.core.io.DefaultResourceLoader;
+import com.minispring.io.DefaultResourceLoader;
 import com.minispring.io.Resource;
 import com.minispring.io.ResourceLoader;
 

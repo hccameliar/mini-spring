@@ -1,9 +1,6 @@
-package com.minispring.core.io;
+package com.minispring.io;
 
-import com.minispring.io.ClassPathResource;
-import com.minispring.io.FileSystemResource;
-import com.minispring.io.Resource;
-import com.minispring.io.ResourceLoader;
+import com.minispring.core.io.UrlResource;
 import com.minispring.util.ClassUtils;
 
 import java.net.MalformedURLException;
