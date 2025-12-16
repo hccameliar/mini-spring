@@ -1,0 +1,35 @@
+# Maven
+/target/
+
+# IntelliJ IDEA
+/.idea/
+*.iml
+*.ipr
+*.iws
+/out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Gradle
+.gradle/
+/build/
+
+# Logs
+*.log
+
+# OS / Editor temp
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+
+# Java
+hs_err_pid*
+replay_pid*
+
+# Test / local
+*.local
