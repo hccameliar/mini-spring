@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+    <bean id="userService" class="com.hongchen.service.UserService">
+        <property name="userRepository" ref="userRepository"/>
+    </bean>
+
+    <bean id="userRepository" class="com.hongchen.repository.UserRepository"/>
+
+</beans>
